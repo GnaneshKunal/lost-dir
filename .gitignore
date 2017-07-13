@@ -1,6 +1,6 @@
 LOST*
 *.out
-*info
+info*
 *.o
 *.exe
 .vscode
