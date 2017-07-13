@@ -4,3 +4,4 @@ info*
 *.o
 *.exe
 .vscode
+main
